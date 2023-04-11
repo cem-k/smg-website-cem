@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/smg-website-cem/static/css/main.44fac71e.css",
-    "main.js": "/smg-website-cem/static/js/main.5fc5bc4d.js",
+    "main.js": "/smg-website-cem/static/js/main.f26d72cf.js",
     "static/media/teacher.png": "/smg-website-cem/static/media/teacher.aa07709390a234c7f2eb.png",
     "static/media/smg-logo-en.png": "/smg-website-cem/static/media/smg-logo-en.1db340e6f1fd5076901d.png",
     "static/media/privacy.png": "/smg-website-cem/static/media/privacy.24080e432899635d629c.png",
@@ -12,10 +12,10 @@
     "static/media/rocket.png": "/smg-website-cem/static/media/rocket.b58a9096fceb35409309.png",
     "index.html": "/smg-website-cem/index.html",
     "main.44fac71e.css.map": "/smg-website-cem/static/css/main.44fac71e.css.map",
-    "main.5fc5bc4d.js.map": "/smg-website-cem/static/js/main.5fc5bc4d.js.map"
+    "main.f26d72cf.js.map": "/smg-website-cem/static/js/main.f26d72cf.js.map"
   },
   "entrypoints": [
     "static/css/main.44fac71e.css",
-    "static/js/main.5fc5bc4d.js"
+    "static/js/main.f26d72cf.js"
   ]
 }
